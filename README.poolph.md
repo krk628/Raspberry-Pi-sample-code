@@ -56,6 +56,8 @@ If you get onto the new Raspberry Pi without prompting you are set.
         name: pool_ph2
         command: /usr/bin/ssh root@192.168.10.55 /phsensor/uart.py | head -n +1
 
+Here is how the 3/4" fitting and probe are implemented on my pool...
 
+![](phprobe.jpg)
 
 
