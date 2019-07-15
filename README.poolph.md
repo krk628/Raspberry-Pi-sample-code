@@ -59,5 +59,6 @@ If you get onto the new Raspberry Pi without prompting you are set.
 Here is how the 3/4" fitting and probe are implemented on my pool...
 
 ![](phprobe.jpg)
+![](pumps.jpg)
 
 
