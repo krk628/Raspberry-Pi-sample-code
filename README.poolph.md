@@ -4,12 +4,19 @@ Here is how I get the pH off my pool.  This is just for illustration purposes an
 ### Bill of Materials:
 
 1> Probe fitting - https://bit.ly/2L9EyIg
+
 2> pH Probe - https://ebay.to/2WUVSmh
+
 3> EZO Carrier Board https://bit.ly/2L85Ezq
+
 4> EZO-pH pH Circuit https://bit.ly/2GVhreE
+
 5> A Raspberry Pi https://amzn.to/2X2HWXK
+
 6> git clone https://github.com/krk628/Raspberry-Pi-sample-code /phsensor
+
 7> Calibration Solution - https://amzn.to/2N4CmEh
+
 
 ### PHYSICAL CONNECTIONS:
 
